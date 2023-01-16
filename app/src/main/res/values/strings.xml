@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first project</string>
+    <string name="input">Name</string>
+    <string name="kg_to_pound">Kg to Pound</string>
+    <string name="Input_number">Enter a number</string>
+    <string name="textview">TextView</string>
+    <string name="button">To pound</string>
+</resources>
